@@ -1,0 +1,261 @@
+recipe_id,country,country_secondary,dish_category,dish_type,diet_type,carbohydrate_base,carbohydrate_category,protein,protein_cut,protein_type,family_friendly,spice_level,prep_time
+2,India,India,Stove top / bowl food,Curry,Fish,Basmati,Rice,Shellfish,Prawns,Fish & Seafood,No,No Spice,25
+5,Italy,Italy,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Beans,Butter beans,Pulses,No,Mild,35
+9,Thailand,Thailand,Stove top / bowl food,Curry,Vegan,Basmati,Rice,Tofu,Protein not found,Vegetarian,No,Spicy,25
+16,Great Britain,Great Britain,Protein&Veg,Fish & side veg,Fish,Carb not found,#N/A,Oily Fish,Trout,Fish & Seafood,No,No Spice,20
+19,Tunisia,Tunisia,Protein&Veg,Egg dish,Vegetarian,Millet,Grains,Eggs,Eggs,Dairy & Eggs,No,No Spice,30
+20,Tunisia,Tunisia,Protein&Veg,Cheese & Side veg,Vegetarian,Cous cous,Grains,Cheese,Feta,Dairy & Eggs,No,No Spice,40
+30,Italy,Italy,Stove top / bowl food,Pasta,Vegetarian,White pasta,Pasta,Cheese,Cheddar,Dairy & Eggs,No,No Spice,40
+53,Lebanon,Lebanon,Salads,Tabbouleh,Vegetarian,Bulgur wheat,Grains,Cheese,Halloumi,Dairy & Eggs,no,No Spice,30
+54,Italy,Italy,Stove top / bowl food,Risotto,Vegetarian,Risotto rice,Rice,#N/A,#N/A,#N/A,No,No Spice,35-40
+57,Japan,Japan,Soups,Ramen,Meat,Wholewheat noodle nests,Noodles,Chicken,Skin off Thigh Chicken,Poultry & Meat,Yes,No Spice,35
+58,Japan,Japan,Soups,Ramen,Vegan,Wholewheat noodle nests,Noodles,Tofu,#N/A,Vegetarian,No,No Spice,30
+77,Italy,Italy,Stove top / bowl food,Pasta,Meat,White pasta,Pasta,Pork,Steak Pork,Poultry & Meat,Yes,No Spice,35
+89,Thailand,Thailand,Stove top / bowl food,Stir Fry,Meat,Thai rice noodles,Noodles,Chicken,Breast Chicken,Poultry & Meat,Yes,Mild,35
+94,United Kingdom,Morocco,Salads,Tabbouleh,Vegan,Cous cous,Grains,Cheese,Feta,Dairy & Eggs,No,No Spice,35
+101,Morocco,Morocco,Soups,Soup,Vegetarian,Ciabatta,Bread,Beans,Chickpeas,Pulses,Yes,Mild,45
+115,Great Britain,Great Britain,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Cheese,Cheddar,Dairy & Eggs,No,No Spice,40
+117,China,China,Stove top / bowl food,Stir Fry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,20
+119,Turkey,Turkey,Salads,Tabbouleh,Vegetarian,Bulgur wheat,Grains,Cheese,Goats Cheese,Dairy & Eggs,No,Mild,30
+121,Japan,Japan,Protein&Veg,Fish & side veg,Fish,white potatoes,Potato,Oily Fish,Salmon,Fish & Seafood,No,No Spice,40
+130,Italy,Italy,Finger food,Burger,Vegetarian,Ciabatta,Bread,#N/A,Mozzarella,#N/A,No,No Spice,35
+151,Russia,Russia,Stove top / bowl food,Pasta,Meat,White pasta,Pasta,#N/A,Mince Beef,#N/A,Yes,No Spice,30
+156,United Kingdom,United Kingdom,Finger food,Burger,Vegetarian,Ciabatta,Bread,Eggs,Eggs,Dairy & Eggs,No,No Spice,45
+160,China,China,Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Pork,Steak Pork,Poultry & Meat,No,No Spice,40
+165,United Kingdom,United Kingdom,Stove top / bowl food,Risotto,Vegetarian,Risotto rice,Rice,#N/A,Protein not found,#N/A,No,No Spice,50
+169,Jamaica,Jamaica,Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Beans,Kidney beans,Pulses,No,No Spice,35
+190,Italy,Italy,Salads,Mixed veg,Vegetarian,Millet,Grains,#N/A,#N/A,#N/A,No,No Spice,30
+197,China,China,Stove top / bowl food,Stir Fry,Meat,Basmati,Rice,#N/A,#N/A,#N/A,No,No Spice,30
+197,China,China,Stove top / bowl food,Stir Fry,Meat,Basmati,Rice,#N/A,#N/A,#N/A,No,No Spice,30-35
+232,Austria,Austria,Protein&Veg,Cheese & Side veg,Vegetarian,Carb not found,#N/A,Eggs,Eggs,Dairy & Eggs,No,No Spice,45
+234,Great Britain,Great Britain,Protein&Veg,Cheese & Side veg,Vegetarian,freekeh,Grains,Cheese,Goats Cheese,Dairy & Eggs,No,No Spice,30-35
+251,Italy,Italy,Stove top / bowl food,Pasta,Vegetarian,White pasta,Pasta,#N/A,#N/A,#N/A,No,Mild,15
+252,China,China,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Pork,Steak Pork,Poultry & Meat,No,No Spice,40
+253,Morocco,Morocco,Salads,Meat salad,Meat,Cous cous,Grains,Lamb,Mince Lamb,Poultry & Meat,No,No Spice,30
+255,Morocco,Morocco,Protein&Veg,Meatballs,Meat,Carb not found,#N/A,Beef,Mince Beef,Poultry & Meat,No,Spicy,35
+256,China,China,Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Pork,Mince Pork,Poultry & Meat,Yes,Mild,35
+257,Italy,Italy,Stove top / bowl food,Pasta,Meat,White pasta,Pasta,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,15
+258,Italy,Italy,Salads,Cheese salad,Vegetarian,Ciabatta,Bread,#N/A,Mozzarella,#N/A,No,No Spice,15
+259,India,India,Stove top / bowl food,Curry,Meat,Brown Rice,Rice,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,30
+260,India,Great Britain,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Skin off Thigh Chicken,Poultry & Meat,No,Mild,15-20
+264,India,India,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,Yes,Mild,20
+271,Japan,Japan,Stove top / bowl food,Curry,Vegan,Basmati,Rice,Tofu,#N/A,Vegetarian,No,No Spice,30
+284,Ukraine,Great Britain,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,30
+285,Japan,Japan,Soups,Ramen,Meat,Wholewheat noodle nests,Noodles,Chicken,Breast Chicken,Poultry & Meat,No,Mild,25
+288,China,China,Protein&Veg,Fish & side veg,Fish,Brown Rice,Rice,Whitefish,Basa,Fish & Seafood,No,Mild,35
+292,Japan,Japan,Soups,Ramen,Fish,Thai rice noodles,Noodles,Whitefish,Basa,Fish & Seafood,Yes,Mild,35
+300,Japan,Japan,Stove top / bowl food,Curry,Meat,Carb not found,#N/A,Eggs,Eggs,Dairy & Eggs,Yes,Mild,30
+301,United Kingdom,Great Britain,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Pork,Bacon Pork,Poultry & Meat,No,Mild,40
+304,Japan,Japan,Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,Mild,25
+305,India,Indonesia,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,no,Mild,30
+313,China,China,Stove top / bowl food,Stir Fry,Meat,Basmati,Rice,Pork,Steak Pork,Poultry & Meat,No,No Spice,30
+314,Italy,Italy,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Beans,Butter beans,Pulses,Yes,No Spice,45
+315,Mexico,Mexico,Oven,BBQ,Meat,Carb not found,#N/A,Chicken,Breast Chicken,Poultry & Meat,No,Mild,40
+317,Italy,Italy,Stove top / bowl food,Risotto,Meat,Risotto rice,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,35
+318,India,Japan,Stove top / bowl food,Stir Fry,Vegetarian,Wholewheat noodle nests,Noodles,#N/A,#N/A,#N/A,No,Mild,30
+320,United States,United States of America (USA),Finger food,Burger,Fish,Brioche,Bread,Whitefish,Basa,Fish & Seafood,No,No Spice,40
+323,United Kingdom,Great Britain,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Cheese,Blue Cheese,Dairy & Eggs,No,No Spice,40
+325,Greece,Greece,Finger food,Burger,Meat,Ciabatta,Bread,Lamb,Mince Lamb,Poultry & Meat,No,No Spice,45
+326,France,France,Protein&Veg,Fish & side veg,Fish,white potatoes,Potato,Whitefish,Basa,Fish & Seafood,No,No Spice,40
+327,Italy,Italy,Stove top / bowl food,Risotto,Vegetarian,Risotto rice,Rice,#N/A,Mozzarella,#N/A,No,No Spice,35
+329,India,India,Stove top / bowl food,Curry,Meat,Brown Rice,Rice,Lamb,Mince Lamb,Poultry & Meat,No,No Spice,30
+330,Spain,Spain,Protein&Veg,Egg dish,Vegetarian,white potatoes,Potato,Beans,Cannellini beans,Pulses,No,Spicy,30
+331,Italy,Great Britain,Protein&Veg,Meat & Side veg,Meat,Cous cous,Grains,Pork,Sausage Pork,Poultry & Meat,No,No Spice,40
+332,United States,France,Protein&Veg,Fish & side veg,Fish,Brown Rice,Rice,Whitefish,Basa,Fish & Seafood,No,Mild,25
+333,Greece,Greece,Oven,Pie,Vegetarian,Carb not found,#N/A,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,45
+334,Thailand,Thailand,Salads,Meat salad,Meat,Thai rice noodles,Noodles,#N/A,Mince Beef,#N/A,No,Mild,30
+337,Mexico,Mexico,Stove top / bowl food,Chili,Vegetarian,Brown Rice,Rice,Cheese,Cheddar,Dairy & Eggs,Yes,Spicy,25
+338,Morocco,Morocco,Protein&Veg,Cheese & Side veg,Vegetarian,Bulgur wheat,Grains,Cheese,Feta,Dairy & Eggs,No,Spicy,40
+339,Italy,Italy,Stove top / bowl food,Risotto,Fish,Risotto rice,Rice,Whitefish,Basa,Fish & Seafood,No,No Spice,30
+341,United Kingdom,Great Britain,Protein&Veg,Fish & side veg,Fish,white potatoes,Potato,Cheese,Cheddar,Dairy & Eggs,No,No Spice,30
+343,United Kingdom,Great Britain,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Lamb,Mince Lamb,Poultry & Meat,No,No Spice,40
+344,China,China,Stove top / bowl food,Stir Fry,Meat,Wholewheat noodle nests,Noodles,Chicken,Breast Chicken,Poultry & Meat,Yes,Spicy,20
+346,Italy,Italy,Stove top / bowl food,Pasta,Vegetarian,White pasta,Pasta,Cheese,Goats Cheese,Dairy & Eggs,No,Mild,20
+347,Italy,Morocco,Protein&Veg,Cheese & Side veg,Vegetarian,Cous cous,Grains,Eggs,Eggs,Dairy & Eggs,No,No Spice,30
+348,France,France,Protein&Veg,Meat & Side veg,Meat,waxy potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,30
+348,France,France,Protein&Veg,Meat & Side veg,Meat,waxy potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,25-30
+356,Great Britain,Great Britain,Soups,Soup,Vegetarian,Ciabatta,Bread,Cheese,Cheddar,Dairy & Eggs,No,Spicy,35
+359,Morocco,Morocco,Protein&Veg,Cheese & Side veg,Vegetarian,Cous cous,Grains,Cheese,Halloumi,Dairy & Eggs,No,Spicy,30
+360,China,China,Stove top / bowl food,Pilaf / rice,Fish,Basmati,Rice,Eggs,Eggs,Dairy & Eggs,No,No Spice,30
+362,United States,Mexico,Finger food,Burger,Meat,Brioche,Bread,#N/A,Mince Beef,#N/A,No,Spicy,35
+364,Japan,Japan,Stove top / bowl food,Stir Fry,Vegetarian,Basmati,Rice,Tofu,#N/A,Vegetarian,No,No Spice,40
+369,Israel and the Occupied Territories,Israel and the Occupied Territories,Salads,Grain bowl,Meat,Cous cous,Grains,#N/A,#N/A,#N/A,No,No Spice,30
+377,Greece,Greece,Protein&Veg,Fish & side veg,Fish,white potatoes,Potato,Whitefish,Basa,Fish & Seafood,No,No Spice,35
+378,United States,United States of America (USA),Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,40
+383,India,India,Stove top / bowl food,Dal,Vegetarian,Carb not found,#N/A,Lentils,Canned lentils,Pulses,No,No Spice,45-50
+385,Thailand,China,Protein&Veg,Meat & Side veg,Meat,Brown Rice,Rice,Chicken,Breast Chicken,Poultry & Meat,No,Mild,35
+386,Iran,Iran,Salads,Tabbouleh,Vegetarian,Bulgur wheat,Grains,#N/A,#N/A,#N/A,No,No Spice,35
+389,China,China,Stove top / bowl food,Stir Fry,Meat,Wholewheat noodle nests,Noodles,#N/A,#N/A,#N/A,No,No Spice,35
+392,Spain,Spain,Salads,Meat salad,Meat,Carb not found,#N/A,Lentils,Puy lentils,Pulses,No,No Spice,30
+395,Japan,Japan,Stove top / bowl food,Stir Fry,Meat,Wholewheat noodle nests,Noodles,Chicken,Breast Chicken,Poultry & Meat,No,Mild,35
+399,India,India,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,Mild,35
+407,Portugal,Portugal,Stove top / bowl food,Stew,Fish,Ciabatta,Bread,Whitefish,Basa,Fish & Seafood,No,No Spice,30
+410,India,India,Finger food,Burger,Meat,Brioche,Bread,Lamb,Mince Lamb,Poultry & Meat,No,No Spice,40
+412,India,India,Stove top / bowl food,Pilaf / rice,Vegetarian,Basmati,Rice,#N/A,Protein not found,#N/A,No,Mild,40
+416,China,China,Protein&Veg,Soya & side veg,Vegan,Brown Rice,Rice,#N/A,Protein not found,#N/A,No,No Spice,30
+420,Morocco,Morocco,#N/A,Grain bowl,Vegetarian,Cous cous,Grains,Beans,Chickpeas,Pulses,No,No Spice,45
+421,United Kingdom,United Kingdom,Finger food,Sandwich,Meat,Ciabatta,Bread,Pork,Sausage Pork,Poultry & Meat,Yes,Spicy,45
+425,Greece,Greece,Oven,Pie,Meat,Ciabatta,Bread,#N/A,Mince Beef,#N/A,Yes,No Spice,55
+426,Lebanon,Lebanon,#N/A,Grain bowl,Vegetarian,freekeh,Grains,Cheese,Feta,Dairy & Eggs,No,No Spice,30
+427,China,"Korea, Republic of (South Korea)",Stove top / bowl food,Stir Fry,Meat,Brown Rice,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,35
+428,Morocco,Morocco,Stove top / bowl food,Stew,Vegetarian,Cous cous,Grains,Cheese,Feta,Dairy & Eggs,No,Spicy,40
+431,Turkey,Turkey,Finger food,Burger,Vegetarian,Ciabatta,Bread,Cheese,Halloumi,Dairy & Eggs,No,Spicy,45
+432,Egypt,Egypt,#N/A,Grain bowl,Vegetarian,freekeh,Grains,Eggs,Eggs,Dairy & Eggs,No,Spicy,35
+433,United States of America (USA),United States of America (USA),Finger food,Burger,Meat,Brioche,Bread,#N/A,#N/A,#N/A,No,No Spice,30
+434,United Kingdom,United Kingdom,Protein&Veg,Fishcakes,Fish,white potatoes,Potato,Smoked Fish,Smoked Basa,Fish & Seafood,No,No Spice,35
+437,China,China,Stove top / bowl food,Stir Fry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,30
+438,Spain,Spain,Oven,Tray Bake,Meat,white potatoes,Potato,Eggs,Eggs,Dairy & Eggs,No,No Spice,40
+439,France,France,Oven,Tray Bake,Fish,white potatoes,Potato,Whitefish,Basa,Fish & Seafood,No,No Spice,35
+441,Great Britain,Great Britain,Salads,Fish salad,Fish,Carb not found,#N/A,Lentils,Puy lentils,Pulses,No,No Spice,30
+444,India,India,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,30
+446,Central African Republic,Morocco,Stove top / bowl food,Pilaf / rice,Vegetarian,freekeh,Grains,Cheese,Goats Cheese,Dairy & Eggs,No,No Spice,30
+447,Germany,Germany,Protein&Veg,Schnitzel,Meat,Carb not found,#N/A,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,30
+448,Mexico,Mexico,#N/A,Cheese salad,Vegetarian,Bulgur wheat,Grains,Beans,Black beans,Pulses,No,Spicy,20
+449,Italy,Italy,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Pork,Sausage Pork,Poultry & Meat,No,No Spice,35
+450,Turkey,Turkey,Stove top / bowl food,Stew,Meat,Bulgur wheat,Grains,Lamb,Mince Lamb,Poultry & Meat,No,Spicy,20
+453,Spain,Spain,Stove top / bowl food,Pasta,Meat,White pasta,Pasta,Cheese,Cheddar,Dairy & Eggs,No,No Spice,20
+454,Mexico,Mexico,#N/A,Grain bowl,Vegetarian,Brown Rice,Rice,Beans,Black beans,Pulses,No,No Spice,35-40
+457,Italy,Italy,Stove top / bowl food,Pasta,Vegetarian,White pasta,Pasta,#N/A,#N/A,#N/A,Yes,No Spice,25
+461,India,India,Protein&Veg,Egg dish,Vegetarian,Sweet potatoes,Potato,Beans,Cannellini beans,Pulses,No,No Spice,35
+462,Israel and the Occupied Territories,Israel and the Occupied Territories,Stove top / bowl food,Pilaf / rice,Vegetarian,Basmati,Rice,Beans,Chickpeas,Pulses,No,No Spice,35
+463,Italy,Italy,Finger food,Burger,Vegetarian,Bulgur wheat,Grains,Cheese,Halloumi,Dairy & Eggs,No,No Spice,25
+464,"Korea, Republic of (South Korea)","Korea, Democratic Republic of (North Korea)",Stove top / bowl food,Stir Fry,Meat,Basmati,Rice,#N/A,Mince Beef,#N/A,No,No Spice,20
+467,"Korea, Republic of (South Korea)","Korea, Republic of (South Korea)",Stove top / bowl food,Stir Fry,Vegan,Basmati,Rice,#N/A,#N/A,#N/A,No,No Spice,35
+468,Great Britain,Great Britain,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Pork,Steak Pork,Poultry & Meat,Yes,No Spice,30
+470,India,India,Stove top / bowl food,Curry,Vegetarian,Basmati,Rice,#N/A,Protein not found,#N/A,No,No Spice,30
+472,Mexico,Mexico,Stove top / bowl food,Chili,Meat,Bulgur wheat,Grains,Cheese,Cheddar,Dairy & Eggs,No,Spicy,35
+473,India,India,Stove top / bowl food,Curry,Fish,Basmati,Rice,Oily Fish,Salmon,Fish & Seafood,No,No Spice,30
+475,United Kingdom,United Kingdom,Finger food,Sandwich,Meat,Ciabatta,Bread,Cheese,Cheddar,Dairy & Eggs,No,No Spice,35
+477,Spain,Spain,Stove top / bowl food,Pilaf / rice,Fish,Basmati,Rice,Shellfish,Prawns,Fish & Seafood,No,No Spice,35
+478,Morocco,Morocco,Stove top / bowl food,Tagine,Meat,Cous cous,Grains,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,20
+479,Morocco,Morocco,Stove top / bowl food,Pilaf / rice,Vegetarian,Carb not found,#N/A,Beans,Black beans,Pulses,No,No Spice,40
+480,Mexico,Mexico,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Chicken,Breast Chicken,Poultry & Meat,No,Spicy,35
+485,Great Britain,Great Britain,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Cheese,Blue Cheese,Dairy & Eggs,No,No Spice,35
+491,India,India,Protein&Veg,Fish & side veg,Fish,white potatoes,Potato,Oily Fish,Salmon,Fish & Seafood,No,No Spice,25
+497,United Kingdom,United Kingdom,Oven,Tray Bake,Meat,white potatoes,Potato,Pork,Sausage Pork,Poultry & Meat,Yes,No Spice,40-45
+498,United Kingdom,United Kingdom,Stove top / bowl food,Stir Fry,Meat,Thai rice noodles,Noodles,Pork,Steak Pork,Poultry & Meat,No,Mild,30
+501,Morocco,Morocco,Protein&Veg,Meat & Side veg,Meat,Cous cous,Grains,Chicken,Breast Chicken,Poultry & Meat,No,Spicy,45
+504,United States,United States,Stove top / bowl food,Pilaf / rice,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,35
+509,United States,United States of America (USA),Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Pork,Steak Pork,Poultry & Meat,No,Spicy,25
+514,United Kingdom,United Kingdom,Protein&Veg,Fish & side veg,Fish,waxy potatoes,Potato,Smoked Fish,Smoked Basa,Fish & Seafood,Yes,No Spice,20
+515,Jamaica,Jamaica,Protein&Veg,Fish & side veg,Fish,Basmati,Rice,Whitefish,Basa,Fish & Seafood,No,No Spice,20
+518,Great Britain,Great Britain,Protein&Veg,Meat & Side veg,Meat,waxy potatoes,Potato,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,35
+520,Morocco,Morocco,Salads,Tabbouleh,Vegetarian,Cous cous,Grains,#N/A,Mozzarella,#N/A,No,No Spice,15
+522,Italy,Italy,Protein&Veg,Meat & Side veg,Meat,Carb not found,#N/A,Beans,Cannellini beans,Pulses,No,No Spice,30
+525,Malaysia,Malaysia,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,30
+526,India,India,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,35
+528,Italy,Italy,Protein&Veg,Fish & side veg,Fish,Carb not found,#N/A,Whitefish,Basa,Fish & Seafood,No,No Spice,20-25
+529,Thailand,Thailand,Protein&Veg,Meatballs,Meat,Basmati,Rice,Pork,Mince Pork,Poultry & Meat,No,No Spice,30
+531,Central African Republic,Central African Republic,Salads,Grain bowl,Meat,Cous cous,Grains,Pork,Steak Pork,Poultry & Meat,No,Spicy,20
+538,Italy,Italy,Stove top / bowl food,Pasta,Meat,Vermicelli,Noodles,Chicken,Skin off Thigh Chicken,Poultry & Meat,Yes,Spicy,20
+539,United Kingdom,Great Britain,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,#N/A,#N/A,#N/A,Yes,No Spice,30
+540,United States,United States of America (USA),Protein&Veg,Schnitzel,Meat,white potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,20
+541,United States of America (USA),United States of America (USA),Salads,Meat salad,Meat,Carb not found,#N/A,Eggs,Eggs,Dairy & Eggs,No,No Spice,10
+546,United States of America (USA),Great Britain,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,40
+548,Italy,Italy,Stove top / bowl food,Pasta,Meat,White pasta,Pasta,#N/A,#N/A,#N/A,No,No Spice,20
+549,Mexico,Mexico,Stove top / bowl food,Stew,Meat,Basmati,Rice,Chicken,#N/A,Poultry & Meat,No,Spicy,35-40
+550,India,India,Stove top / bowl food,Curry,Vegetarian,Bulgur wheat,Grains,#N/A,Protein not found,#N/A,No,Spicy,35
+553,Japan,Japan,Stove top / bowl food,Stir Fry,Meat,Wholewheat noodle nests,Noodles,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,30
+555,India,India,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,30
+557,China,China,Stove top / bowl food,Stir Fry,Vegetarian,Vermicelli,Noodles,#N/A,#N/A,#N/A,No,Spicy,20
+561,China,China,Protein&Veg,Fish & side veg,Fish,Basmati,Rice,Oily Fish,Salmon,Fish & Seafood,No,Mild,25
+563,Italy,Italy,Stove top / bowl food,Pasta,Meat,White pasta,Pasta,Pork,Sausage Pork,Poultry & Meat,Yes,No Spice,30
+565,India,India,Stove top / bowl food,Curry,Meat,Basmati,Rice,Lentils,Red lentils,Pulses,No,No Spice,45-50
+573,Germany,Austria,Stove top / bowl food,Pilaf / rice,Meat,Bulgur wheat,Grains,Chicken,Breast Chicken,Poultry & Meat,No,Mild,20
+574,India,India,Oven,BBQ,Vegetarian,Basmati,Rice,Cheese,Paneer,Dairy & Eggs,No,No Spice,25
+577,Italy,Italy,Stove top / bowl food,Risotto,Vegetarian,Risotto rice,Rice,Cheese,Cheddar,Dairy & Eggs,No,No Spice,40-45
+580,China,China,Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,Yes,Mild,30-35
+584,China,China,Stove top / bowl food,Stir Fry,Meat,Basmati,Rice,Pork,Mince Pork,Poultry & Meat,No,Mild,20
+586,Spain,Spain,Protein&Veg,Meatballs,Meat,Cous cous,Grains,Cheese,Cheddar,Dairy & Eggs,No,No Spice,30
+590,United States of America (USA),United States of America (USA),Oven,Pasta Bake,Vegetarian,White pasta,Pasta,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,30
+592,Turkey,Turkey,Stove top / bowl food,Stew,Vegetarian,Bulgur wheat,Grains,Cheese,Cheddar,Dairy & Eggs,No,No Spice,20
+868,Indonesia,Indonesia,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,Mild,20
+874,India,India,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,35
+877,Italy,Italy,Protein&Veg,Meat & Side veg,Meat,waxy potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,45
+878,China,China,Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Pork,Mince Pork,Poultry & Meat,No,No Spice,20
+880,Indonesia,Indonesia,Stove top / bowl food,Stir Fry,Vegan,Basmati,Rice,Eggs,Eggs,Dairy & Eggs,No,Mild,35
+881,Israel,Mexico,Finger food,Tacos,Vegetarian,Sweet potatoes,Potato,Cheese,Feta,Dairy & Eggs,No,No Spice,20
+882,India,India,Stove top / bowl food,Curry,Fish,Basmati,Rice,Smoked Fish,Smoked Basa,Fish & Seafood,No,Mild,20
+884,Cambodia,Cambodia,Stove top / bowl food,Curry,Fish,Basmati,Rice,Whitefish,Haddock,Fish & Seafood,No,No Spice,30
+886,Italy,Italy,Oven,Pasta Bake,Vegetarian,White pasta,Pasta,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,50
+891,Italy,Italy,Stove top / bowl food,Pasta,Fish,White pasta,Pasta,#N/A,Smoked Mackerel,#N/A,No,No Spice,20
+892,Morocco,Morocco,Finger food,Wraps,Vegetarian,Tortillas,Bread,Lentils,Canned lentils,Pulses,No,Spicy,20
+897,Italy,Italy,Soups,Soup,Meat,White pasta,Pasta,Beans,Cannellini beans,Pulses,No,No Spice,20
+899,India,India,Oven,Pie,Fish,white potatoes,Potato,Whitefish,Basa,Fish & Seafood,No,No Spice,45
+902,Greece,Greece,Soups,Soup,Meat,Risotto rice,Rice,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,20
+905,Hungary,Hungary,Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Pork,Steak Pork,Poultry & Meat,No,Spicy,25
+936,Italy,Italy,Protein&Veg,Schnitzel,Meat,white potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,40
+939,France,France,Protein&Veg,Meat & Side veg,Meat,waxy potatoes,Potato,Chicken,Skin off Thigh Chicken,Poultry & Meat,Yes,No Spice,35
+944,France,France,Stove top / bowl food,Stew,Meat,white potatoes,Potato,Pork,Bacon Pork,Poultry & Meat,No,No Spice,45
+945,Thailand,Thailand,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,No,Spicy,30
+947,Italy,United States of America (USA),Stove top / bowl food,Risotto,Meat,Risotto rice,Rice,Pork,Bacon Pork,Poultry & Meat,No,No Spice,35
+949,Mexico,Mexico,Stove top / bowl food,Chili,Vegetarian,Tortillas,Bread,Beans,Butter beans,Pulses,No,Mild,20
+954,Italy,Greece,Stove top / bowl food,Pasta,Vegetarian,White pasta,Pasta,Cheese,Cheddar,Dairy & Eggs,No,No Spice,25
+967,Italy,India,Finger food,Pizza,Vegetarian,Naan,Bread,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,20
+969,Greece,Greece,Oven,Pie,Meat,white potatoes,Potato,Cheese,Cheddar,Dairy & Eggs,No,No Spice,60
+971,United Kingdom,Great Britain,Protein&Veg,Fish & side veg,Fish,white potatoes,Potato,Whitefish,Basa,Fish & Seafood,Yes,No Spice,40
+975,Mexico,Mexico,Salads,Fish salad,Fish,Basmati,Rice,Whitefish,Haddock,Fish & Seafood,No,Mild,20
+980,India,India,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,Yes,Spicy,20-25
+1086,Thailand,Thailand,Stove top / bowl food,Curry,Vegan,Basmati,Rice,#N/A,Protein not found,#N/A,No,Spicy,30
+1090,Malaysia,Malaysia,Soups,Laksa,Fish,Egg noodles,Noodles,Shellfish,Prawns,Fish & Seafood,No,Spicy,25
+1091,Spain,Spain,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,Yes,Mild,30
+1094,India,India,Stove top / bowl food,Curry,Meat,Naan,Bread,Lentils,Canned lentils,Pulses,No,No Spice,20
+1096,India,India,Stove top / bowl food,Curry,Meat,Basmati,Rice,Lamb,Mince Lamb,Poultry & Meat,Yes,Spicy,35
+1097,France,France,Protein&Veg,Fish & side veg,Fish,waxy potatoes,Potato,Whitefish,Cod,Fish & Seafood,No,Spicy,30
+1098,Thailand,Thailand,Stove top / bowl food,Curry,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,30
+1099,Mexico,Mexico,Finger food,Wraps,Meat,Tortillas,Bread,Chicken,Breast Chicken,Poultry & Meat,Yes,Mild,30
+1100,India,India,Stove top / bowl food,Curry,Vegetarian,Basmati,Rice,Eggs,Eggs,Dairy & Eggs,No,Mild,30
+1101,Italy,Italy,Stove top / bowl food,Risotto,Fish,Risotto rice,Rice,Eggs,Eggs,Dairy & Eggs,Yes,No Spice,35
+1102,Great Britain,Great Britain,#N/A,Grain bowl,Meat,Wheatberries,Grains,Pork,Sausage Pork,Poultry & Meat,Yes,Mild,40-45
+1104,Philippines,Philippines,Stove top / bowl food,Stew,Meat,Basmati,Rice,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,40
+1105,Italy,Italy,Stove top / bowl food,Pasta,Fish,White pasta,Pasta,#N/A,Smoked Mackerel,#N/A,No,Spicy,30
+1106,"Korea, Republic of (South Korea)","Korea, Republic of (South Korea)",Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Eggs,Eggs,Dairy & Eggs,No,Mild,20
+1110,India,India,Finger food,Tortillas,Meat,Tortillas,Bread,Chicken,Breast Chicken,Poultry & Meat,No,Spicy,20
+1111,Vietnam,Vietnam,Salads,Fish salad,Fish,Thai rice noodles,Noodles,Whitefish,Haddock,Fish & Seafood,No,Spicy,30
+1166,Japan,Japan,Salads,Meat salad,Meat,Carb not found,#N/A,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,25
+1172,Italy,Italy,Stove top / bowl food,Stew,Meat,waxy potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,35
+1173,Japan,Japan,Soups,Ramen,Meat,Thai rice noodles,Noodles,Pork,Mince Pork,Poultry & Meat,No,Spicy,35
+1175,Brazil,Brazil,Protein&Veg,Meat & Side veg,Meat,Brown Rice,Rice,Beans,Black beans,Pulses,No,No Spice,30
+1176,Italy,Italy,Oven,Pasta Bake,Meat,White pasta,Pasta,Pork,Bacon Pork,Poultry & Meat,Yes,No Spice,30
+1180,India,India,Stove top / bowl food,Curry,Meat,Naan,Bread,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,40
+1181,Brazil,Brazil,Stove top / bowl food,Curry,Meat,Brown Rice,Rice,Chicken,Breast Chicken,Poultry & Meat,No,Spicy,30-35
+1182,United Kingdom,Great Britain,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Pork,Bacon Pork,Poultry & Meat,No,No Spice,40-45
+1183,Mexico,Mexico,Finger food,Tacos,Meat,Tortillas,Bread,Pork,Belly Pork,Poultry & Meat,No,Spicy,60
+1184,Italy,Italy,Protein&Veg,Fish & side veg,Fish,waxy potatoes,Potato,Whitefish,Seabass,Fish & Seafood,no,No Spice,30
+1185,Morocco,Morocco,Protein&Veg,Meat & Side veg,Meat,Pitta,Bread,Beans,Chickpeas,Pulses,No,No Spice,30
+1187,France,France,Oven,Pie,Meat,Carb not found,#N/A,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,45
+1188,India,India,Stove top / bowl food,Curry,Vegetarian,Naan,Bread,Beans,Chickpeas,Pulses,No,No Spice,30
+1193,Lebanon,Lebanon,Finger food,Sandwich,Meat,Pitta,Bread,#N/A,Mince Beef,#N/A,Yes,No Spice,25
+1194,United States,United States of America (USA),Finger food,Sandwich,Meat,Sub Roll,Bread,Cheese,Cheddar,Dairy & Eggs,No,No Spice,40
+1196,Georgia,Georgia,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,25
+1197,Armenia,Armenia,Protein&Veg,Meat & Side veg,Meat,Basmati,Rice,Lamb,Mince Lamb,Poultry & Meat,Yes,No Spice,40
+1198,France,France,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Pork,Bacon Pork,Poultry & Meat,Yes,No Spice,45
+1200,Morocco,Morocco,#N/A,Cheese salad,Vegetarian,chickpeas,#N/A,Beans,Chickpeas,Pulses,No,No Spice,15
+1201,United States,France,Finger food,Sandwich,Fish,Foccacia,Bread,Cheese,Cheddar,Dairy & Eggs,No,No Spice,30
+1220,China,China,Protein&Veg,Meatballs,Meat,Basmati,Rice,#N/A,strips Beef,#N/A,No,No Spice,20
+1222,Italy,Italy,Protein&Veg,Fish & side veg,Fish,waxy potatoes,Potato,Whitefish,Seabass,Fish & Seafood,Yes,No Spice,20
+1224,France,Israel and the Occupied Territories,Salads,Tabbouleh,Vegetarian,Carb not found,#N/A,Cheese,Goats Cheese,Dairy & Eggs,No,No Spice,30
+1229,Great Britain,Great Britain,Protein&Veg,Meat & Side veg,Meat,white potatoes,Potato,Pork,Steak Pork,Poultry & Meat,Yes,No Spice,25
+1231,Spain,Spain,Stove top / bowl food,Stew,Fish,Ciabatta,Bread,Whitefish,Seabass,Fish & Seafood,No,No Spice,35
+1232,France,France,Protein&Veg,Fish & side veg,Fish,waxy potatoes,Potato,Whitefish,Seabass,Fish & Seafood,no,No Spice,20
+1236,Mexico,Mexico,Finger food,Sandwich,Meat,Ciabatta,Bread,Chicken,Breast Chicken,Poultry & Meat,Yes,No Spice,35
+1239,Mexico,Mexico,#N/A,Grain bowl,Meat,Basmati,Rice,Beans,Black beans,Pulses,Yes,Spicy,40
+1241,Italy,Italy,Protein&Veg,Meat & Side veg,Meat,Orzo,Pasta,Pork,Steak Pork,Poultry & Meat,Yes,No Spice,40
+1242,France,France,Stove top / bowl food,Stew,Meat,Baguette,Bread,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,20
+1243,France,Italy,Protein&Veg,Fish & side veg,Fish,Carb not found,#N/A,Whitefish,Seabass,Fish & Seafood,No,No Spice,20
+1244,Italy,Italy,Oven,Pasta Bake,Vegetarian,White pasta,Pasta,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,40
+1247,Morocco,Morocco,Protein&Veg,Meatballs,Meat,Orzo,Pasta,Lamb,Mince Lamb,Poultry & Meat,No,Spicy,40
+1248,Jamaica,Jamaica,Stove top / bowl food,Stew,Vegan,Brown Rice,Rice,#N/A,Vegetables,#N/A,Yes,No Spice,35
+1249,Israel,Israel and the Occupied Territories,Salads,Tabbouleh,Vegetarian,Carb not found,#N/A,Cheese,Feta,Dairy & Eggs,No,No Spice,30
+1251,Italy,Italy,Stove top / bowl food,Stew,Meat,Baguette,Bread,Lentils,Canned lentils,Pulses,No,No Spice,40
+1252,South Korea,"Korea, Republic of (South Korea)",Soups,Ramen,Meat,Thai rice noodles,Noodles,#N/A,Steak Beef,#N/A,No,Spicy,30-35
+1270,Great Britain,Great Britain,Oven,BBQ,Meat,Carb not found,#N/A,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,30
+1276,Italy,Great Britain,Finger food,Burger,Meat,Brioche,Bread,Cheese,Blue Cheese,Dairy & Eggs,No,No Spice,30
+1277,Italy,Italy,Finger food,Sandwich,Meat,Ciabatta,Bread,Chicken,Breast Chicken,Poultry & Meat,No,No Spice,15
+1278,United States of America (USA),Great Britain,Salads,Fish salad,Fish,Carb not found,#N/A,Shellfish,Prawns,Fish & Seafood,No,No Spice,30
+1279,China,China,Salads,Fish salad,Fish,Wholewheat noodle nests,Noodles,Whitefish,Basa,Fish & Seafood,No,Spicy,20
+1280,Cuba,Cuba,Finger food,Sandwich,Meat,Ciabatta,Bread,Pork,gammon Pork,Poultry & Meat,No,No Spice,45
+1281,Italy,Italy,Stove top / bowl food,Pasta,Fish,White pasta,Pasta,Shellfish,Prawns,Fish & Seafood,No,Mild,20
+1282,United States,United States of America (USA),Oven,Pasta Bake,Vegetarian,White pasta,Pasta,Cheese,Cheddar,Dairy & Eggs,Yes,No Spice,30
+1283,Italy,Italy,Stove top / bowl food,Risotto,Fish,Risotto rice,Rice,Cheese,Cheddar,Dairy & Eggs,No,No Spice,40-45
+1284,Spain,Spain,Stove top / bowl food,Stew,Meat,Baguette,Bread,Beans,Chickpeas,Pulses,No,Spicy,30

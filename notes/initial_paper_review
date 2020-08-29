@@ -1,0 +1,111 @@
+Combining content and collab recs
+
+Different hybridization methods[3,6,9,10]have been proposed, such asthe use of 
+weighted criterion (the scores of different recommendation components are combined numerically), 
+the use ofa switching mechanism (the system chooses among recommendation components and applies the selected one) or even 
+the presentation of the two recommendations together, leaving the decision in the user’s hands. 
+Nevertheless, a common problem with these methods is that the parameters controlling the hybridization have to be tuned
+
+
+
+Differnt types of collaborative filtering
+memory based
+model based
+	user based
+		issues, many items less users
+		computing similairities between pairs was difficult
+		users change regulary and neeed to be recomputed
+	item based - previous user based cf has problems, item based similarity was introduced by amazon to solve this issue in 1998.
+		
+	
+	https://en.wikipedia.org/wiki/Item-item_collaborative_filtering
+	
+	
+Models - 
+KNN - this is common 59 of approx 79 studies in the reviewed doc.  
+Clustering - used in 34 studfies.
+Matrix Manipulation - PCS, LDA, SVD used to solve the sparcity 
+
+Types of Hybrid System
+CF-CBF boith are created and then combined and weighted together. 
+CF-CBF-X this is where both techniques are combined with a third, most commonly clustering, or possibly demographic filtering. 
+	Thgis could be an options where use CBF mfor all, the CF is used to generate groups, and if there isn't data reinforce with another method. 
+	
+	
+Different Hybridisation Strategies:
+
+Weighting: Combving two methods using a weighted linear function
+Feature combination: This is where the output of one method is considered a feature in the other. 
+Cascade: First technique producdes a corase ranking	
+Switching: The systems switches between the the approaches based upon support or some other criteria.
+
+
+Notes:
+-------------------------------------------------------
+THOUGHT: it isn't worth pivoting the data around users as item relevance between pair A or B rated by the same user has nothing to do with 
+THOUGHT: we don't know much about the users here, so we can't say the users are different. This could be an improvement in the future once more data is collected. 
+THOUGHT: this is the first pass, offline... once this transitions to online what's next...
+THOUGHT: what does similarity mean? are similar items in a box good or bad. for example we wanted variety. just because dishes are similar, doesn't mean the combination is performant for users.
+THOUGHT: diversity and freshnesh of the recommendations 
+THOUGHT: DONT CONFUSE THE RECOMMENDER WITH THE SIMILARITY MATRICES
+There are not that many recipes - this means that anything to crazy on CBF may be innapropriate
+
+This papers is a very similar, they use related authors and related titles to augment their recommender. They then get users to rank the items in relatedness, and turn the rank onto binary 'related, not related.
+ https://www.cs.utexas.edu/users/ml/papers/libra-sigir-wkshp-99.pdf
+ 
+ -------------------------------
+Based on this paper https://pdfs.semanticscholar.org/c654/4a12fec2097bddc49adbb159426d9dc15d2c.pdf
+Started to research similairty measures as these appear helpful. But implementations on python will help with having to reeimplemtned from scratch. 
+this led to this article that appears to suggest jacvquard similaity which looks like a good options for the cbf work. https://dataconomy.com/2015/04/implementing-the-five-most-popular-similarity-measures-in-python/ 
+
+from math import*
+ 
+def jaccard_similarity(x,y):
+ 
+ intersection_cardinality = len(set.intersection(*[set(x), set(y)]))
+ union_cardinality = len(set.union(*[set(x), set(y)]))
+ return intersection_cardinality/float(union_cardinality)
+print jaccard_similarity([0,1,2,5,6],[0,2,3,5,7,9])
+------------------
+
+Also, worth considering cosine similarity for this, however tf-idf will be helpful to eradicate teh impact of overly common items. Can probably implement this fairly simply to highlight I understand the concept (and to learn it).
+https://docs.eyesopen.com/toolkits/python/graphsimtk/measure.html
+
+For the scored data:
+https://www.datacamp.com/community/tutorials/recommender-systems-python
+need to weight the ratings according to popularity - scores that hava greater support should be trusted more. 
+
+This person uses cosine similarity to compare users based on their ratings https://github.com/arjavanb/Recommender_Systems/blob/master/Recommender%20system%20Movie_lens.ipynb
+Could apply this also to 
+
+
+Evaluation:
+Classi cationaccuracy(Acc):Thepercentageofex-amplescorrectlyclassi edaspositiveornegative
+PrecisionatTop 3 or 10(Pr10)
+RankCorrelation(rs):Spearman'srankcorrelation between the user score and the score teh system produced
+Could also score them using the same ranking as the users (from the description manually). 
+coverage.
+
+perhaps used the accuracy as a unit test to ensure the model does not degrade
+
+Implementation:
+-------------------------------------------------------
+Need to have some unit tests
+Need to enforce a data contract
+Should be modules really so it can be implemented and developed anywhere.
+Need to ensure the CF ratings have enough support.
+
+
+Reading list of relevant papers:
+-------------------------------------------------------
+Hybrid Recommender System Using LatentFeatures >> A Hybrid Recommendation MethodBased on Featurefor Offline Book Personalization
+Alleviating the Cold-Start Problem ofRecommender Systems Using a New HybridApproach
+
+P-Tango - Combining content-based and collab-orative recommendations:  A hybrid approach based on bayesian network
+
+this one is a CB-CBF systems that could work >> A Hybrid Recommendation Method withReduced Data for Large-Scale Application
+
+thisuses feature combination on a simila rproblem >>> Modeling User Preferences in a HybridRecommender System using Type-2 FuzzySets
+
+
+	
