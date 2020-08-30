@@ -84,6 +84,9 @@ def recipe_data_prep(df):
     # take the max cook time
     df['prep_time'] = df['prep_time'].apply(max_prep_time)
 
+    # some duplicate recipes exist drop them
+    df.drop_duplicates(subset='recipe_id', inplace=True)
+
     return df
 
 
@@ -118,7 +121,7 @@ def run():
     validate_raw_data(contract['recipes_info'], recipe_info_df)
 
     clean_recipe_info_df = recipe_data_prep(recipe_info_df)
-    print(clean_recipe_info_df)
+
     save_clean_data(clean_recipe_info_df, raw_data_files['recipes_info'])
 
 run()

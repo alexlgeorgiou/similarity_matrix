@@ -26,7 +26,6 @@ recipe_id,country,country_secondary,dish_category,dish_type,diet_type,carbohydra
 169,jamaica,jamaica,protein&veg,meat & side veg,meat,basmati,rice,beans,kidney beans,pulses,no,no spice,35
 190,italy,italy,salads,mixed veg,vegetarian,millet,grains,,,,no,no spice,30
 197,china,china,stove top / bowl food,stir fry,meat,basmati,rice,,,,no,no spice,30
-197,china,china,stove top / bowl food,stir fry,meat,basmati,rice,,,,no,no spice,35
 232,austria,austria,protein&veg,cheese & side veg,vegetarian,,,eggs,eggs,dairy & eggs,no,no spice,45
 234,united kingdom,united kingdom,protein&veg,cheese & side veg,vegetarian,freekeh,grains,cheese,goats cheese,dairy & eggs,no,no spice,35
 251,italy,italy,stove top / bowl food,pasta,vegetarian,white pasta,pasta,,,,no,mild,15
@@ -72,7 +71,6 @@ recipe_id,country,country_secondary,dish_category,dish_type,diet_type,carbohydra
 344,china,china,stove top / bowl food,stir fry,meat,wholewheat noodle nests,noodles,chicken,breast chicken,poultry & meat,yes,spicy,20
 346,italy,italy,stove top / bowl food,pasta,vegetarian,white pasta,pasta,cheese,goats cheese,dairy & eggs,no,mild,20
 347,italy,morocco,protein&veg,cheese & side veg,vegetarian,cous cous,grains,eggs,eggs,dairy & eggs,no,no spice,30
-348,france,france,protein&veg,meat & side veg,meat,waxy potatoes,potato,chicken,breast chicken,poultry & meat,no,no spice,30
 348,france,france,protein&veg,meat & side veg,meat,waxy potatoes,potato,chicken,breast chicken,poultry & meat,no,no spice,30
 356,united kingdom,united kingdom,soups,soup,vegetarian,ciabatta,bread,cheese,cheddar,dairy & eggs,no,spicy,35
 359,morocco,morocco,protein&veg,cheese & side veg,vegetarian,cous cous,grains,cheese,halloumi,dairy & eggs,no,spicy,30

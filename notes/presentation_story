@@ -3,9 +3,25 @@ efficiently
 
 subjective similarity evaluations givenby Gousto employees (‘similarityscoringdata’)
 
-allrecipesintherecipefeaturedataset
+all recipes in the recipe feature dataset
 
-numpymatri
+numpy matrix
+
+similairty matrices:
+CM
+jaqqard
+cosine
+tf-idf
+
+CBF
+pearson-corelation
+cosine similarity
+
+hybrid
+Hieracical cluster of cbf -> Use mean score of cluster to fill missing values
+perform CBF
+
+
 
 is the random dolnig out of recipes fair?
 are the times random?
