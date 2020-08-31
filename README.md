@@ -13,7 +13,9 @@ Features of this code include:
     * standard or customer tokenisation of fields
 * Produces a single cosine similarity of scored data
 * Produces a weights hybrid similarity score summarised: 
-<img src="https://latex.codecogs.com/gif.latex?hybridSim = \alpha \times simCF_{ij} + (1 = \alpha) \times simSB_{ij}  t " /> 
+```math
+ \alpha \times simCF_{ij} + (1 = \alpha) \times simSB_{ij}
+```
 
 Basic usage of this code is:
 
