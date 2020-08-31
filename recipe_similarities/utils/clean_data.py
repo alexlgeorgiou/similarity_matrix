@@ -5,9 +5,6 @@ import numpy as np
 import pandas as pd
 
 from recipe_similarities.config.data_contract import raw_data_contract
-from recipe_similarities.config.defaults import Config
-
-DATA_DIR = os.path.join(os.getcwd(), 'data')
 
 
 def validate_min_max(expected, df):
@@ -90,38 +87,16 @@ def recipe_data_prep(df):
     return df
 
 
-def save_clean_data(df, file_name):
-    df.to_csv(os.path.join(DATA_DIR, 'clean_data', file_name), index=False)
+def prepare_data(recipes_info_file_path,
+                 similarity_score_file_path):
 
-
-def read_raw_data(file_name):
-    fpath = os.path.join(DATA_DIR,
-                         'raw_data',
-                         file_name)
-    df = pd.read_csv(fpath)
-
-    return df
-
-
-def run():
-
-    raw_data_files = Config.raw_data_files()
     contract = raw_data_contract()
 
-    # clean and save similarty scores to clean data
-    sim_scores_df = read_raw_data(raw_data_files['similarity_scores'])
-
+    sim_scores_df = pd.read_csv(similarity_score_file_path)
     validate_raw_data(contract['similarity_scores'], sim_scores_df)
 
-    save_clean_data(sim_scores_df, raw_data_files['similarity_scores'])
-
-    # clean and save recipe info to clean data
-    recipe_info_df = read_raw_data(raw_data_files['recipes_info'])
-
+    recipe_info_df = pd.read_csv(recipes_info_file_path)
     validate_raw_data(contract['recipes_info'], recipe_info_df)
-
     clean_recipe_info_df = recipe_data_prep(recipe_info_df)
 
-    save_clean_data(clean_recipe_info_df, raw_data_files['recipes_info'])
-
-run()
+    return [clean_recipe_info_df, sim_scores_df]
