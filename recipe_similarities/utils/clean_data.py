@@ -44,9 +44,7 @@ def max_prep_time(field):
 
 
 def recipe_data_prep(df):
-   """ This function performs some basic dat sanitisation of recipes data """
 
-    # standardise all string capitalisation
     columns_to_lower = ['carbohydrate_base',
                         'carbohydrate_category',
                         'country',

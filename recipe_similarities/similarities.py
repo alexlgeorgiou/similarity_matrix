@@ -212,7 +212,7 @@ class SimilarityFactory:
         :param cb_method: accepts 'cosine' or 'jaccard'
         :param cbf_method: accepts 'cosine' only
         :param text_vectoriser: accepts 'tfid' or 'count'
-        :param strict: True default. This enforces the tokenisation where each fields value is the token.
+        :param strict: True default. This enforces the tokenisation where each field's whole string is a token.
                       False. This uses a default tokeniser to compare each recipes as if it were a single text blob.
         :return: :returns dict {'similarity_matrix': NxN matics as a numpy array
                   , 'index': Pandas Index object highlightin recipe IDs to cross reference with the similarity matrix}
