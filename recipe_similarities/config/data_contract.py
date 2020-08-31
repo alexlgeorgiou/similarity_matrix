@@ -2,7 +2,7 @@ import numpy as np
 
 
 def raw_data_contract():
-
+    """ This is a basic data contract detailing expections of input csvs"""
     return {'similarity_scores': {'file_format': 'csv',
                                   'columns': {'user_id': np.dtype(np.int64),
                                               'message_ts': np.dtype(np.object),

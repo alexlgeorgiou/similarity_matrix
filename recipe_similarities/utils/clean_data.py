@@ -11,7 +11,7 @@ def validate_min_max(expected, df):
 
     for col, accept_range in expected.items():
         assert df[col].min() >= accept_range[0]
-        assert df[col].max() >= accept_range[1]
+        assert df[col].max() <= accept_range[1]
 
 
 def validate_raw_data(contract, df):
@@ -44,6 +44,7 @@ def max_prep_time(field):
 
 
 def recipe_data_prep(df):
+   """ This function performs some basic dat sanitisation of recipes data """
 
     # standardise all string capitalisation
     columns_to_lower = ['carbohydrate_base',
@@ -63,7 +64,7 @@ def recipe_data_prep(df):
     for col in columns_to_lower:
         df[col] = df[col].apply(safe_lower)
 
-    # replace duplicated strings
+    # replace duplicated/ conflicting strings
     df['carbohydrate_base'].replace(to_replace={'carb not found': np.nan},
                                     inplace=True)
     df['carbohydrate_category'].replace(to_replace={'carb not found':  np.nan},
